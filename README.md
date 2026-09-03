@@ -1,2 +1,2 @@
-# project14
+# Stock-Predictor
 Title : Real-Time Stock / IPO Monitoring Platform
